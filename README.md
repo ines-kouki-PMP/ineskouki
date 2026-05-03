@@ -1,7 +1,4 @@
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#2E1F47">
 <title>Inès Kouki — Appel de clarté gratuit · Rôle · Posture · Trajectoire</title>
 <meta name="description" content="Consultante senior en transformation. 17 ans chez BNP Paribas, Société Générale, IDEMIA, Philip Morris. Réservez un appel de clarté de 30 minutes gratuit pour clarifier votre rôle, votre posture et votre trajectoire.">
 
